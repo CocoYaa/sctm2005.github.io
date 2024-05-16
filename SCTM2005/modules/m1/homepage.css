@@ -1,0 +1,17 @@
+h1{
+    color: rgb(255, 200, 201);
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    margin-left: 16cm;
+    margin-right: 3cm;
+    margin-top: 0.2cm;
+    margin-bottom: 0.2cm;
+    max-width: 20%; /* Optional: to make sure the image is responsive */
+    height: auto;    /* Optional: to maintain aspect ratio */
+}

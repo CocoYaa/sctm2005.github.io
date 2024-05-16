@@ -1,0 +1,64 @@
+h1{
+    color: rgb(255, 148, 148);
+    text-align: center;
+    font-family: initial;
+    font-size: 84px;
+}
+
+h2{
+    color: rgb(205, 237, 202);
+    text-align: left;
+    margin-top: 3cm;
+    margin-left: 3cm;
+    font-family: initial;
+    font-size: 22px;
+}
+
+h3{
+    color: rgb(205, 237, 202);
+    text-align: left;
+    margin-left: 3cm;
+    font-family: initial;
+    font-size: 22px;
+}
+
+p{
+    text-align: left;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    margin-top: 2cm;
+    margin-bottom: 0.2cm;
+    color: rgb(255, 148, 148);
+    font-family: initial;
+    font-size: 20px;
+}
+
+.image1{
+    text-align: center;
+    margin-left: 7cm;
+    margin-right: 3cm;
+    margin-top: 0.2cm;
+    margin-bottom: 0.2cm;
+    max-width: 70%;
+    height: auto;
+}
+
+.image2{
+    text-align: center;
+    margin-left: 7cm;
+    margin-right: 3cm;
+    margin-top: 0.2cm;
+    margin-bottom: 0.2cm;
+    max-width: 70%;
+    height: auto;
+}
+
+.image3{
+    text-align: center;
+    margin-left: 7cm;
+    margin-right: 3cm;
+    margin-top: 0.2cm;
+    margin-bottom: 0.2cm;
+    max-width: 70%;
+    height: auto;
+}
